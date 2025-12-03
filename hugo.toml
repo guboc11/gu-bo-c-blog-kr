@@ -3,6 +3,7 @@ title = "Tawon's Dev Blog"
 languageCode = "en-us"
 theme = "mainroad"
 cleanDestinationDir = true
+enableGitInfo = true
 
 [Site.Params.Author] # Used in authorbox
   name = "Taewon Park"
