@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "tawon's dev blog"
+title = "Tawon's Dev Blog"
 languageCode = "en-us"
 theme = "mainroad"
 cleanDestinationDir = true
